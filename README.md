@@ -1,1 +1,1 @@
-# Android-studio-Java-Lesson-1-9
+# Java labs 2-9 (Android Studio)
